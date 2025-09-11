@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\25-2-NGP\\Server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE2DAE9B-6069-4EC3-9EDD-FCACF361D3EE}|..\\2\\2.vcxproj|C:\\Users\\user\\Documents\\GitHub\\25-2-NGP\\2\\\uC5F0\uC2B5\uACFC\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE2DAE9B-6069-4EC3-9EDD-FCACF361D3EE}|..\\2\\2.vcxproj|C:\\Users\\user\\Documents\\GitHub\\25-2-NGP\\2\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -16,7 +19,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 138,
+          "DockedWidth": 158,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -30,19 +33,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\25-2-NGP\\2\\2.cpp",
-              "RelativeDocumentMoniker": "..\\2\\2.cpp",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\25-2-NGP\\2\\2.cpp",
-              "RelativeToolTip": "..\\2\\2.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBYAAAABAAAAAAAAAA==",
+              "Title": "\uC5F0\uC2B5\uACFC\uC81C.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\25-2-NGP\\2\\\uC5F0\uC2B5\uACFC\uC81C.cpp",
+              "RelativeDocumentMoniker": "..\\2\\\uC5F0\uC2B5\uACFC\uC81C.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\25-2-NGP\\2\\\uC5F0\uC2B5\uACFC\uC81C.cpp*",
+              "RelativeToolTip": "..\\2\\\uC5F0\uC2B5\uACFC\uC81C.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-11T01:12:58.827Z",
+              "WhenOpened": "2025-09-11T01:16:20.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "1.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\25-2-NGP\\Server\\1.cpp",
               "RelativeDocumentMoniker": "1.cpp",
@@ -50,18 +53,30 @@
               "RelativeToolTip": "1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-05T02:49:31.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T02:49:31.759Z"
             }
           ]
         },
         {
-          "DockedWidth": 223,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 118,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\25-2-NGP\\2\\2.cpp",
+              "RelativeDocumentMoniker": "..\\2\\2.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\25-2-NGP\\2\\2.cpp",
+              "RelativeToolTip": "..\\2\\2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-11T01:12:58.827Z",
+              "EditorCaption": ""
             }
           ]
         }

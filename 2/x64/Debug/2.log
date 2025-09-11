@@ -1,2 +1,4 @@
-﻿  2-1.cpp
+﻿  연습과제.cpp
+C:\Users\user\Documents\GitHub\25-2-NGP\2\연습과제.cpp(17,13): warning C4305: '초기화 중': 'int'에서 'BYTE'(으)로 잘립니다.
+C:\Users\user\Documents\GitHub\25-2-NGP\2\연습과제.cpp(17,17): warning C4309: '초기화 중': 상수 값이 잘립니다.
   2.vcxproj -> C:\Users\user\Documents\GitHub\25-2-NGP\Server\x64\Debug\2.exe
