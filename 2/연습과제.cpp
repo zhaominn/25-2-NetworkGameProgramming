@@ -9,6 +9,7 @@
 #pragma comment (lib, "MSWSock.LIB")
 
 #include <stdio.h>
+#include <iostream>
 
 int main(int argc, char* argv[])
 {
@@ -25,6 +26,11 @@ int main(int argc, char* argv[])
 	printf("wHighVersion: %u.%u\n", LOBYTE(wsa.wHighVersion), HIBYTE(wsa.wHighVersion));
 	printf("szDescription: %s\n", wsa.szDescription);
 	printf("szSystemStatus: %s\n", wsa.szSystemStatus);
+
+	/*
+	LOBYTE는 16비트 값에서 하위 8비트(낮은 자리 바이트)를, 
+	HIBYTE는 상위 8비트(높은 자리 바이트)를 추출하는 매크로(Macro)입니다.
+	*/
 
 	WSACleanup();
 	return 0;
