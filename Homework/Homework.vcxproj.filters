@@ -18,5 +18,14 @@
     <ClCompile Include="homework1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="homework1-수정.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="homework2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="homework3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

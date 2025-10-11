@@ -32,7 +32,7 @@ void err_display(const char* msg)
 	LocalFree(lpMsgBuf);
 }
 
-char* SERVERIP = (char*)"127.0.0.1";
+char* SERVERIP = (char*)"183.101.91.36";
 #define SERVERPORT 9000
 #define BUFSIZE    512
 
